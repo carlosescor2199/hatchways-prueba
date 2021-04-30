@@ -1,0 +1,17 @@
+button {
+    background: none;
+    border: none;
+    font-family: Raleway;
+    font-size: 60px;
+    font-weight: normal;
+    color: rgb(175, 175, 175);
+}
+
+button:hover {
+    background: none;
+    border: none;
+    font-family: Raleway;
+    font-size: 60px;
+    font-weight: normal;
+    color: rgb(0, 0, 0);
+}
